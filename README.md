@@ -27,7 +27,7 @@ API RESTful desenvolvida para a Global Solution da FIAP. O objetivo é gerenciar
 1.  **Pré-requisitos:** Ter o JDK 17 e o Maven instalados.
 2.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_GIT]
+    git clone https://github.com/ygorvpontes/Nexus.git
     ```
 3.  **Execute a aplicação:**
     No terminal (na pasta raiz), rode:
