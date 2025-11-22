@@ -1,0 +1,9 @@
+INTEGRANTES DO GRUPO:
+Gabriel Barros Mazzariol - RM: 555410
+Ygor Vieira Pontes - RM: 555686
+
+RESUMO DA SOLUÇÃO:
+API RESTful desenvolvida em Java com Spring Boot para uma plataforma de Upskilling/Reskilling.
+A solução conta com 2 CRUDs completos (Usuários e Trilhas), persistência em banco de dados H2,
+Seeds de dados iniciais, validações com Bean Validation e tratamento global de exceções.
+O projeto atende às ODS 4 e 8, promovendo requalificação profissional para o futuro do trabalho.
